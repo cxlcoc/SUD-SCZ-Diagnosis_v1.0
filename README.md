@@ -11,6 +11,7 @@ Place SUD_SCZ_Diagnosis.exe and the _internal folder in the same directory, e.g.
 
 /YourFolder/
 ├── SUD_SCZ_Diagnosis.exe
+
 └── _internal/
 
 3. How to Run
